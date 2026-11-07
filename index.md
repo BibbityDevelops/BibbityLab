@@ -11,7 +11,7 @@ project developed by one person. Questions, bug reports and ideas are welcome.
 
 ## Contact
 
-- **Bug reports and feature ideas:** [open an issue on GitHub](https://github.com/BibbityDevelops/bibbitylab.github.io/issues/)
+- **Bug reports and feature ideas:** [open an issue on GitHub](https://github.com/BibbityDevelops/bibbitylab/issues/)
   (a free GitHub account is needed)
 - **Email:** contact.bibbity@pm.me
 
